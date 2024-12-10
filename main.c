@@ -1,6 +1,10 @@
 //CONVERTING MODULE SOURCE
 #define _CRT_SECURE_NO_WARNINGS
+#include "fundamentals.h"
+#include "manipulating.h"
 #include "converting.h"
+#include "tokenizing.h"
+
 
 //Main, calls upon other modules or terminates the prorgram depending on a user input from 0-4
 int main(void)
