@@ -9,6 +9,7 @@ int main(void)
     do
     {
         //Below are the printed numeric options of functions for the user to see and choose from
+        //Options 1-4 call their assosciated functions (Fundamentals, Manipulation, Converting, Tokenizing)
         printf("1 - Fundamentals\n");
         printf("2 - Manipulation\n");
         printf("3 - Converting\n");
